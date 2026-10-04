@@ -7,6 +7,7 @@
 **van Arck Tunes · Berlin, Germany**
 
 [![Website](https://img.shields.io/badge/Website-vanarcktunes.com-111111?style=for-the-badge)](https://vanarcktunes.com/)
+[![Spotify](https://img.shields.io/badge/Spotify-Rudi%20van%20Arck-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3z0YraF8maisG57cKQZz2c)
 ![Music Production](https://img.shields.io/badge/Music-Production-444444?style=for-the-badge)
 ![Songwriting](https://img.shields.io/badge/Songwriting-Artist%20Development-666666?style=for-the-badge)
 
@@ -22,14 +23,14 @@ My work spans songwriting, production, release concepts, visual direction, music
 
 ## Selected Music Projects
 
-| Project | Direction |
-|---|---|
-| **Mia Sterling** | Cinematic Reggae Soul · Spiritual Duets |
-| **Xora Vale** | Soul Pop · Blues · Liquid Drum & Bass |
-| **Elin Vega** | Afro Deep House · Emotional Deep Pop |
-| **Eddi Brooks** | Country Pop · Country Duets |
-| **Wildland Echo** | Cinematic Folk · Celtic · Organic Electronic |
-| **Jukebox Revival** | Retro Rock'n'Roll · Dance Pop |
+| Project | Direction | Listen |
+|---|---|---|
+| **Mia Sterling** | Cinematic Reggae Soul · Spiritual Duets | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/3KFO545EyFTOEpETIoD15P) |
+| **Xora Vale** | Soul Pop · Blues · Liquid Drum & Bass | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/0YqSrmfrXkXjPGMmTWFuyK) |
+| **Elin Vega** | Afro Deep House · Emotional Deep Pop | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/3cUg9P2ymBtjZU1ayAJfGk) |
+| **Eddi Brooks** | Country Pop · Country Duets | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/4Qdqbuf8DiRlVtrdMTRZR9) |
+| **Wildland Echo** | Cinematic Folk · Celtic · Organic Electronic | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/2XVFzfOX8OeL0IDYOqRdAN) |
+| **Jukebox Revival** | Retro Rock'n'Roll · Dance Pop | [![Spotify](https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/artist/1mPXZvNk0nViQo9d0n0eNg) |
 
 ## Creative Focus
 
